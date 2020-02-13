@@ -1,0 +1,45 @@
+body {
+color: white;    
+background: #000000;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #434343, #000000);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #434343, #000000); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+
+.jumbotron {
+
+background: transparent;
+}
+
+hr {
+    border-color: #3a75c4;
+    box-shadow: 1px 1px 3px #3a75c4;
+}
+.menuvertical {
+    margin: 5% 10%;
+}
+
+.menuvertical a {
+    display: block;
+    padding: 10px;
+    text-decoration: none;
+    margin: 10px 5px 10px 5px;
+}
+
+.btn {
+    box-shadow: 2px 2px 2px #3a75c4;
+    color: white;
+}
+
+.card {
+    text-align: center;
+    border: transparent;
+    background: transparent;
+}
+
+a i {
+    font-size: 25px;
+}
+img {
+    width: 100px;
+}
